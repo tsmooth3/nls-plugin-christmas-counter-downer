@@ -12,7 +12,6 @@ This board shows:
 
 - [Features](#features)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Display Modes](#display-modes)
 - [How It Works](#how-it-works)
 
@@ -67,8 +66,7 @@ This board shows:
 To configure the Christmas Counter Downer board, copy the sample config to config.json and edit it:
 
 ```bash
-cp config.sample.json config.json
-nano config.json
+# no configuration required
 ```
 
 **Note:** You must restart the scoreboard for changes to take effect.
