@@ -1,0 +1,22 @@
+{
+  "name": "christmas_board",
+  "version": "2025.11.30",
+  "description": "Christmas Board",
+  "author": "tsmooth3",
+  "enabled": true,
+  "boards": [
+    {
+      "id": "christmas_board",
+      "class_name": "Christmas",
+      "module": "board"
+    }
+  ],
+  "requirements": {
+    "app_version": ">=2025.10.01",
+    "python_dependencies": []
+  },
+
+  "preserve_files": [
+    "config.json"
+  ]
+}
